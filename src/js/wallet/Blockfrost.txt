@@ -1,0 +1,4 @@
+PROJECT NAME: payment_testnet
+API KEY: testnet7b48H6SvhchgksVut6ZtjaWoo9kKE1BG
+NETWORK: Cardano testnet
+REQUESTS TODAY: 0
