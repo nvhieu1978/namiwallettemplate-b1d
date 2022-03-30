@@ -19,7 +19,7 @@ async function getProtocolParameters() {
         headers: {
           'Accept': 'application/json',
           'Content-Type': 'application/json',
-          'project_id': 'testnet7b48H6SvhchgksVut6ZtjaWoo9kKE1BG'
+          'project_id': 'testnet_7b48H6SvhchgksVut6ZtjaWoo9kKE1BG'
         },
         method: 'GET'
     }).then((response) => response.json());
@@ -30,7 +30,7 @@ async function getProtocolParameters() {
         headers: {
           'Accept': 'application/json',
           'Content-Type': 'application/json',
-          'project_id': 'testnet7b48H6SvhchgksVut6ZtjaWoo9kKE1BG'
+          'project_id': 'testnet_7b48H6SvhchgksVut6ZtjaWoo9kKE1BG'
         },
         method: 'GET'
     }).then((response) => response.json());
