@@ -1,4 +1,6 @@
 # Nami Wallet examples
+# đây là test
+
 <p align="center"><img src="https://partyanimals.dance/favicon.png" alt="PartyAnimals" width="200" style="margin-right:10px"/><img style="margin-left:10px" src="https://cfanboyminter.web.app/favicon.ico" alt="CardanoFanBoyMinter" width="200"/></p>
 
 We implemented many Nami wallet functionalities for our NFT project "Party Animals" [https://partyanimals.dance](https://partyanimals.dance/) and [https://cfanboyminter.web.app/](https://cfanboyminter.web.app/). 
